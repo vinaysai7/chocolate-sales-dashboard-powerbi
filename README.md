@@ -1,4 +1,4 @@
-# Chocolate Sales & Profitability Dashboard
+# 🍫 Chocolate Sales & Profitability Dashboard
 
 An interactive Power BI dashboard analyzing chocolate shipment data to optimize inventory, identify profit drivers, and improve operational decision-making across product categories and geographic markets.
 
